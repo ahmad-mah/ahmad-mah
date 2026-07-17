@@ -1,90 +1,39 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/74823333?v=4" width="120" style="border-radius: 50%; border: 3px solid #a970ff; padding: 3px; background: #1e1e2e;" />
-  <h1 style="color: #cdd6f4; margin-top: 16px; margin-bottom: 4px;">Ahmed Maher</h1>
-  <p style="color: #a6adc8; font-size: 16px; margin-top: 0;">Mobile Application Engineer</p>
-</div>
+![](https://raw.githubusercontent.com/ahmad-mah/ahmad-mah/master/profile.gif)
 
-<br/>
+### Languages
 
-<div align="center">
-  <a href="https://linkedin.com/in/maheresio"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
-  <a href="https://github.com/ahmad-mah"><img src="https://img.shields.io/badge/GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4"/></a>
-  <a href="https://ahmed-maher159-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-a970ff?style=for-the-badge&logo=google-chrome&logoColor=fff"/></a>
-  <a href="mailto:ahmedma.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
-  <a href="https://leetcode.com/u/Maheresio"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=000"/></a>
-</div>
+[![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)](https://dart.dev)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)](https://www.typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org)
+[![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B&logoColor=00599C)](https://isocpp.org)
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://www.mysql.com)
 
-<br/>
+### Technologies
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-mah&show_icons=true&hide=contribs,prs&count_private=true&bg_color=1e1e2e&title_color=a970ff&icon_color=a970ff&text_color=cdd6f4&border_color=313244&include_all_commits=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-mah&layout=compact&bg_color=1e1e2e&title_color=a970ff&text_color=cdd6f4&border_color=313244&hide_border=true&langs_count=6" height="170"/>
-</div>
+[![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=02569B)](https://flutter.dev)
+[![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)](https://reactnative.dev)
+[![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/-Express-000?&logo=Express)](https://expressjs.com)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)](https://www.postgresql.org)
+[![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)](https://firebase.google.com)
+[![Stripe](https://img.shields.io/badge/-Stripe-000?&logo=Stripe&logoColor=008CDD)](https://stripe.com)
+[![Git](https://img.shields.io/badge/-Git-000?&logo=Git)](https://git-scm.com)
+[![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)](https://www.docker.com)
 
----
+### Shipped Apps
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="20" alt="wave" /> About Me
+[![](https://img.shields.io/badge/-🚕%20Drivo-000)](https://github.com/ahmad-mah/Drivo)
+[![](https://img.shields.io/badge/-🛍️%20ECometa-000)](https://github.com/ahmad-mah/ECometa)
+[![](https://img.shields.io/badge/-🎮%20EGIV-000)](https://play.google.com)
+[![](https://img.shields.io/badge/-📋%20Syanitko-000)](https://apps.apple.com)
+[![](https://img.shields.io/badge/-🛒%20Raval-000)](https://play.google.com)
 
-I build mobile apps for a living. Flutter, clean architecture, shipped products. Published on Play Store and App Store. Software engineering graduate.
+### Open Source Projects
 
-```dart
-final ahmed = Developer(
-  name: 'Ahmed Maher',
-  role: 'Mobile Application Engineer',
-  location: 'Egypt',
-  code: ['Dart', 'TypeScript', 'JavaScript'],
-  buildWith: ['Flutter', 'React Native', 'Node.js'],
-  mindset: 'Clean architecture, shipped products'
-);
-```
+[![](https://img.shields.io/badge/-📰%20NewsApp-000)](https://github.com/ahmad-mah/NewsApp)
+[![](https://img.shields.io/badge/-🎬%20MovieApp-000)](https://github.com/ahmad-mah/MovieApp)
+[![](https://img.shields.io/badge/-🏠%20ECometa-000)](https://github.com/ahmad-mah/ECometa)
 
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="20" alt="tools" /> Tech Stack
-
-```
-Flutter       ████████████████████████████████████░  95%
-Dart          ████████████████████████████████████░  95%
-React Native  ██████████████████████████████░░░░░░  80%
-TypeScript    ██████████████████████████████░░░░░░  80%
-JavaScript    ████████████████████████████░░░░░░░░  75%
-Node.js       ██████████████████████████░░░░░░░░░░  70%
-PostgreSQL    █████████████████████████░░░░░░░░░░░  65%
-Firebase      ████████████████████████░░░░░░░░░░░░  60%
-```
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="20" alt="work" /> Experience
-
-**Flutter Developer** · [Takka](https://takka.app) `2024 - Present`
-> Led a 3-app ecosystem (Client, Delivery, Restaurant) from zero to production. Real-time order flows, shared architecture, deployed on stores.
-
-**Flutter Developer** · [Const Tech](https://consttech.com) `2023 - 2024`
-> Built production mobile apps. REST APIs, clean architecture, state management.
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="20" alt="projects" /> Shipped Apps
-
-| App | Description | Platform |
-| --- | ----------- | -------- |
-| **EGIV** | Gaming hub & café booking | Play Store |
-| **Syanitko** | Service reservation platform | App Store |
-| **Raval** | E-commerce app | Play Store & App Store |
-| **ECometa** | AI visual search shopping | Flutter + Stripe |
-| **Drivo** | Ride-sharing app | React Native, Expo |
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20" alt="edu" /> Education
-
-**BSc in Information Technology** · Information Technology Institute (ITI) `2019 - 2023`
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmad-mah&label=Profile%20Visits&color=a970ff&style=flat" alt="profile visits" />
-  <br/>
-  <sub style="color:#585b70;">crafted with ☕ + Flutter mindset</sub>
-</div>
+[![](https://github-readme-stats.vercel.app/api?username=ahmad-mah&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)](https://www.adamalston.com)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-mah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://www.adamalston.com)
