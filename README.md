@@ -1,39 +1,44 @@
-**Ahmed Maher**
+Ahmed Maher — Software Engineer · Flutter · Egypt
 
-Mobile engineer. Flutter & React Native.
+[GitHub](https://github.com/ahmad-mah) · [LinkedIn](https://linkedin.com/in/maheresio) · [Portfolio](https://ahmed-maher159-portfolio.vercel.app) · [Email](mailto:ahmedma.dev@gmail.com)
 
-📍 Egypt · ✉️ ahmedmahershaaban@gmail.com · [LinkedIn](https://linkedin.com/in/1ahmedmaher)
+---
+
+I build mobile apps for a living. Flutter, clean architecture, shipped products.
+
+Published on Play Store and App Store. Software engineering graduate.
 
 ---
 
 ### Work
 
-**Flutter Developer — Takka** `current`
-Built and shipped a 3-app ecosystem (Client, Delivery, Restaurant) from scratch. Real-time order flows, shared architecture across all three apps.
+**Flutter Developer — Takka** `2024–now`
+Led a 3-app ecosystem (Client, Delivery, Restaurant) from zero to production. Real-time order flows, shared architecture, deployed on stores.
 
-**Flutter Developer — Const Tech** `2023-2024`
-Junior developer building production mobile apps. Focused on Flutter, REST APIs, and clean architecture.
+**Flutter Developer — Const Tech** `2023–2024`
+Built production mobile apps. REST APIs, clean architecture, state management.
 
 ---
 
-### Projects
+### Shipped Apps
 
-**Drivo** — React Native / Expo / PostgreSQL  
-Full-stack ride-sharing app. Google Maps, Stripe payments, role-based auth.
+**EGIV** — Gaming hub & café booking. Launched on Play Store.
 
-**ECometa** — Flutter / Riverpod / Stripe  
-E-commerce with AI visual search. 30k+ lines, 10 feature modules, Clean Architecture.
+**Syanitko** — Service reservation platform. Launched on App Store.
 
-**Expenser** — React Native / Express / Neon  
-Expense tracker. Full-stack TypeScript with Clerk auth and Zod validation.
+**Raval** — E-commerce app. Launched on Play Store & App Store.
+
+**ECometa** — AI visual search shopping. Flutter + Stripe.
+
+**Drivo** — Ride-sharing. React Native, Expo, Postgres.
 
 ---
 
 ### Stack
 
-Flutter · Dart · React Native · Expo · TypeScript  
-Node.js · Express · PostgreSQL · Firebase · Stripe  
-Riverpod · Bloc · Clean Architecture
+Flutter · Dart · React Native · TypeScript · Clean Architecture
+Riverpod · BLoC · Provider · GetIt · Firebase · Stripe
+Node.js · Express · PostgreSQL · REST APIs
 
 ---
 
