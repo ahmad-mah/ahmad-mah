@@ -11,15 +11,16 @@
 ### Technologies
 
 [![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=02569B)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)](https://dart.dev)
 [![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)](https://reactnative.dev)
 [![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://nodejs.org)
 [![Express](https://img.shields.io/badge/-Express-000?&logo=Express)](https://expressjs.com)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)](https://www.postgresql.org)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)](https://www.mongodb.com)
 [![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)](https://firebase.google.com)
 [![Stripe](https://img.shields.io/badge/-Stripe-000?&logo=Stripe&logoColor=008CDD)](https://stripe.com)
-[![Git](https://img.shields.io/badge/-Git-000?&logo=Git)](https://git-scm.com)
 [![Clerk](https://img.shields.io/badge/-Clerk-000?&logo=Clerk)](https://clerk.com)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)](https://www.mongodb.com)
+[![Git](https://img.shields.io/badge/-Git-000?&logo=Git)](https://git-scm.com)
 
 ### Shipped Apps
 
@@ -30,8 +31,6 @@
 
 ### Open Source Projects
 
-[![](https://img.shields.io/badge/-📰%20NewsApp-000)](https://github.com/ahmad-mah/NewsApp)
-[![](https://img.shields.io/badge/-🎬%20MovieApp-000)](https://github.com/ahmad-mah/MovieApp)
 [![](https://img.shields.io/badge/-🛍️%20ECometa-000)](https://github.com/ahmad-mah/ECometa)
 [![](https://img.shields.io/badge/-🥗%20Meal%20Recommendation-000)](https://github.com/ahmad-mah/meal_recommendation)
 [![](https://img.shields.io/badge/-🚕%20Drivo-000)](https://github.com/ahmad-mah/Drivo)
